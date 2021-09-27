@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Mikrotik\MR_PRO\MR_Indicators-3\.\Outputs\MR_Indicators-3_r1_PNP.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27.09.21
+Time:       12:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"LD4","69.0000","9.0000","TopLayer","360"
+"LD3","49.0000","9.0000","TopLayer","360"
+"LD2","29.0000","9.0000","TopLayer","360"
+"LD1","9.0000","9.0000","TopLayer","360"
+"J1","59.0000","3.0000","BottomLayer","180"
+"J2","39.0000","6.5000","BottomLayer","270"
+"R16","67.7300","6.3000","BottomLayer","90"
+"R15","66.3000","6.3000","BottomLayer","90"
+"R14","47.7300","6.3000","BottomLayer","90"
+"R13","46.3000","6.3000","BottomLayer","90"
+"R12","27.7300","6.3000","BottomLayer","90"
+"R11","26.3000","6.3000","BottomLayer","90"
+"R10","7.7300","6.3000","BottomLayer","90"
+"R9","6.3000","6.3000","BottomLayer","90"
+"R8","70.2700","5.5000","BottomLayer","270"
+"R7","72.4000","5.5000","BottomLayer","270"
+"R6","50.2700","5.5000","BottomLayer","270"
+"R5","52.4000","5.5000","BottomLayer","270"
+"R4","30.2700","5.5000","BottomLayer","270"
+"R3","32.4000","5.5000","BottomLayer","270"
+"R2","10.2700","5.5000","BottomLayer","270"
+"R1","12.4000","5.5000","BottomLayer","270"
